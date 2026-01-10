@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) Repository
+# Exploratory Data Analysis (EDA)
 
 ## Overview
 This repository contains a complete Exploratory Data Analysis workflow covering data cleaning, feature engineering, statistical analysis, and business insight generation using real-world datasets.
